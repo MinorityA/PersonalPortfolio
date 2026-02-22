@@ -6,13 +6,13 @@ const siteDescription =
   "Portfolio introducing my tech stack, selected projects, and how I build practical software products.";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://MinorityA.github.io/portfolio"),
+  metadataBase: new URL("https://MinorityA.github.io/PersonalPortfolio"),
   title: siteTitle,
   description: siteDescription,
   openGraph: {
     title: siteTitle,
     description: siteDescription,
-    url: "https://MinorityA.github.io/portfolio",
+    url: "https://MinorityA.github.io/PersonalPortfolio",
     siteName: "Bohan Huang Portfolio",
     images: [
       {
